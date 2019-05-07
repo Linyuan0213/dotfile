@@ -2,7 +2,7 @@
 
 **Screenshot**
 
-![Screenshot](https://github.com/Linyuan0213/dotfile/blob/master/SCREENSHOT.png?raw=true)
+![Screenshot](https://github.com/linyuan0213/dotfile/blob/master/SCREENSHOT.png?raw=true)
 
 ### i3需要安装软件 
 
