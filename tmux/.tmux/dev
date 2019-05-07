@@ -1,0 +1,6 @@
+selectp -t 0        # 选择第一个标签
+splitw -h -p 40     # 分割成两半
+
+selectp -t 1        # 选择第二个标签
+splitw -v -p 40     #  分割成两半
+selectp -t 0        # 返回第一个标签
